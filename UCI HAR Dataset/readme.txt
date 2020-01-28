@@ -1,0 +1,1 @@
+unzip UCI HAR Dataset.zip here
